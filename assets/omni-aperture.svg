@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Omni Aperture</title><desc id="desc">Four open corner brackets converging around a central diamond.</desc>
+  <rect width="128" height="128" rx="30" fill="#101010"/>
+  <g fill="none" stroke="#FFB24A" stroke-width="8" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M24 47V29a5 5 0 0 1 5-5h18"/><path d="M81 24h18a5 5 0 0 1 5 5v18"/>
+    <path d="M104 81v18a5 5 0 0 1-5 5H81"/><path d="M47 104H29a5 5 0 0 1-5-5V81"/>
+  </g>
+  <path d="M64 43 85 64 64 85 43 64Z" fill="none" stroke="#F5F5F5" stroke-width="6" stroke-linejoin="round"/>
+  <circle cx="64" cy="64" r="6" fill="#FFB24A"/>
+</svg>
